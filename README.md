@@ -1,4 +1,6 @@
-## Hi there 👋
+## Here is something to look at 👋
+
+[![l0f3n's GitHub stats](https://github-readme-stats.vercel.app/api?username=l0f3n&theme=catppuccin_mocha&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **l0f3n/l0f3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
